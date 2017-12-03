@@ -5,7 +5,8 @@ Matlab implementation for "Low-rank matrix completion using nuclear norm minimiz
 * CVX(http://cvxr.com/cvx/)
 
 # Testing
-* 
+* table_noiseless.m which calls test_noiseless.m runs tests for the noiseless case.
+* table_noisy.m which calls test_noisy.m runs tests for the noisy case.
 
 # License
 * GNU General Public License v3.0
